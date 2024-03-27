@@ -1,0 +1,218 @@
+#logo-text {
+    text-decoration: none;
+    color: black;
+    font-family: Satoshi;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+#logo-image-link {
+    text-decoration: none;
+}
+
+#div-1 {
+    display: flex;
+}
+
+#nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* background-color: aqua; */
+    border-bottom: 2px solid gray;
+    padding: 10px 30px;
+}
+
+#nav-1 {
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.middle-nav-links {
+    text-decoration: none;
+    color: gray;
+    margin: 10px;
+    display: flex;
+    margin: 50px;
+}
+
+#nav-2 {
+    display: flex;
+    padding: 12px 32px;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-link {
+    text-decoration: none;
+    color: gray;
+    /* font-family: Satoshi; */
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 10;
+    line-height: normal;
+    padding-right: 20px;
+    margin: 10px;
+}
+
+.button-link {
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#heading {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 80px;
+}
+
+#paragraph {
+    text-align: center;
+    width: 710px;
+    margin: auto;
+    padding-bottom: 100px;
+}
+
+#image {
+    margin-left: 60px;
+
+}
+#strength{
+    font-size: 40px;
+font-family: Satoshi;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+width: 500px;
+margin-left: 60px;
+padding-right: 50px;
+}
+#date{
+    font-family: Satoshi;
+
+}
+
+#design-button{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#date-design{
+font-size: 20px;
+padding-top: 20px;
+margin-right: 60px;
+}
+
+#date-paragraph{
+    text-decoration: none;
+    font-size: medium;
+    width: 700px;
+    padding-bottom: 20px;
+}
+
+#ticket-link{
+    text-decoration: none;
+    background-color: rgb(8, 49, 253);
+    color: white;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#speaker-div{
+    text-decoration: none;
+    display: flex;
+    padding-top: 30px;
+}
+
+#Speaker{
+    font-family: Satoshi;
+    font-size: 45px;
+    margin-left: 30px;
+}
+
+#Speaker-content{
+    color: black;
+    margin-left: 950px;
+    margin-top: 60px;
+}
+
+#arrow-down-right{
+    color: black;
+  text-decoration: none;
+  margin-top: 60px;
+  margin-left: 10px;
+}
+
+#paragraph-left{
+  text-decoration: none;
+  width: 250px;
+  margin-left: 30px;
+}
+#image-flex{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    position: relative;
+    /* margin-left: 23%; */
+
+}
+#amaka-igwe{
+    position: absolute;
+    background-color: rgba(92, 128, 235, 0.612);
+    /* margin-left: 30%; */
+    display: block;
+    height: auto;
+    top: auto;
+  
+}
+#amaka1{
+    position: absolute;
+    margin-bottom: 50px;
+    text-align: center;
+color: #FFF;
+font-family: Satoshi;
+font-size: 32px;
+
+}
+#amaka2{
+    color: white;
+    height: 20;
+    margin: auto;
+    
+}
+#amaka3{
+
+    text-align: end;
+    /* width: 50px; */
+    margin: auto;
+    color: #FFF;
+}
+/* #Debra-Rowland{
+   background-color: rgba(41, 87, 87, 0.369);
+}
+#debra-1{
+    color: #FFF;
+    font-family: Satoshi;
+    font-size: 32px;
+}
+#debra-2{
+color: #FFF;
+}
+#debra-3{
+color: #FFF;
+} */
